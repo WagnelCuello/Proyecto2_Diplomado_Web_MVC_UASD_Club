@@ -18,5 +18,10 @@ namespace Proyecto2_Diplomado_Web_MVC_UASD_Club.Controllers
         {
             return View();
         }
+
+        public ActionResult Campeonatos()
+        {
+            return View();
+        }
     }
 }
